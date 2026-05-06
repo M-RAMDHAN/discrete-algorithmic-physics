@@ -16,7 +16,7 @@ Key Modules
 Reference
 
 The full theoretical framework is available as a preprint on Zenodo:
-https://zenodo.org/badge/DOI/10.5281/zenodo.19956125.svg
+https://zenodo.org/badge/DOI/10.5281/zenodo.19956125
 
 License
 

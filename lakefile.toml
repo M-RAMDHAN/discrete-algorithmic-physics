@@ -1,0 +1,10 @@
+name = "DAP"
+version = "0.1.0"
+defaultTargets = ["DAP"]
+
+[[lean_lib]]
+name = "DAP"
+
+[[lean_exe]]
+name = "dap-verify"
+root = "DAP.Main"

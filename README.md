@@ -16,7 +16,7 @@ Key Modules
 Reference
 
 The full theoretical framework is available as a preprint on Zenodo:
-https://doi.org/10.5281/zenodo.19956125
+https://doi.org/10.5281/zenodo.20087259
 
 License
 
@@ -73,5 +73,5 @@ This repository is now open for **independent human verification** — a core pr
 
 ### References
 
-- **Full paper (Zenodo):** [https://doi.org/10.5281/zenodo.19956125](https://doi.org/10.5281/zenodo.19956125)
-- **Preprint (Preprints.org):** [Pending — ID 212323]
+- **Full paper (Zenodo):** https://doi.org/10.5281/zenodo.20087259
+  
